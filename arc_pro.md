@@ -13,7 +13,7 @@ import arcpy
 
 ## ⚙️ Environment Settings
 ### How to find Arc Pro Python Interpreter
-- View > Python Window >
+- In Arc Pro: View > Python Window >
 ```python
 import sys
 print(sys.exec_prefix)
