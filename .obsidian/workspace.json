@@ -11,14 +11,12 @@
             "id": "00b9617f68fab100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "arc_pro.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/Images/vi-vim-cheat-sheet.gif"
               },
-              "icon": "lucide-file",
-              "title": "arc_pro"
+              "icon": "lucide-image",
+              "title": "vi-vim-cheat-sheet"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arc_pro.md",
+                "file": "resources/Images/vi-vim-cheat-sheet.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for arc_pro"
+              "title": "Backlinks for vi-vim-cheat-sheet"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arc_pro.md",
+                "file": "resources/Images/vi-vim-cheat-sheet.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from arc_pro"
+              "title": "Outgoing links from vi-vim-cheat-sheet"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arc_pro.md",
+                "file": "resources/Images/vi-vim-cheat-sheet.gif",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of arc_pro"
+              "title": "Outline of vi-vim-cheat-sheet"
             }
           }
         ]
@@ -170,7 +168,9 @@
   },
   "active": "00b9617f68fab100",
   "lastOpenFiles": [
-    "git.md",
-    "arc_pro.md"
+    "00_resources.md",
+    "arc_pro.md",
+    "resources/Images/vi-vim-cheat-sheet.gif",
+    "git.md"
   ]
 }
