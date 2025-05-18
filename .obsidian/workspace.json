@@ -11,12 +11,14 @@
             "id": "00b9617f68fab100",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/Images/vi-vim-cheat-sheet.gif"
+                "file": "JSON in Python – Cheatsheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "vi-vim-cheat-sheet"
+              "icon": "lucide-file",
+              "title": "JSON in Python – Cheatsheet"
             }
           }
         ]
@@ -166,11 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00b9617f68fab100",
+  "active": "218e169a491ece06",
   "lastOpenFiles": [
+    "git.md",
+    "JSON in Python – Cheatsheet.md",
+    "Linux.jpg",
+    "linux.md",
+    "pls-cadd.md",
+    "Selenium.md",
+    "vimModeStateDiagram.svg",
+    "vscode_shortcuts.pdf",
+    "VSCode and Vim - Cheatsheet _ Barbarian Meets Coding.pdf",
     "00_resources.md",
     "arc_pro.md",
-    "resources/Images/vi-vim-cheat-sheet.gif",
-    "git.md"
+    "resources/Images/vi-vim-cheat-sheet.gif"
   ]
 }
