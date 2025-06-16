@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown Cheatsheet"
+              "title": "linux"
             }
           }
         ]
@@ -170,9 +170,12 @@
   },
   "active": "c07350bb641e6940",
   "lastOpenFiles": [
-    "git.md",
-    "Markdown Cheatsheet.md",
     "Linux.jpg",
+    "Markdown Cheatsheet.md",
+    "resources/Images/vi-vim-cheat-sheet.gif",
+    "arc_pro.md",
+    "JSON in Python – Cheatsheet.md",
+    "git.md",
     "linux.md",
     "pls-cadd.md",
     "Selenium.md",
