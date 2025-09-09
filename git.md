@@ -92,3 +92,10 @@ git clean -fd                    # Remove untracked files/directories
 - `.gitignore` — List of files/folders to ignore.
 - `HEAD` — Refers to current commit/branch.
 - Always pull before you push to avoid conflicts.
+- 
+```bash
+#Ignore the entire "logs" folder
+logs/
+
+#Ignore "build" folder at repo root
+/build/

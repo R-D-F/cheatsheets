@@ -161,3 +161,19 @@ print(arcpy.Buffer_analysis.__doc__)
 
 Let me know if you want a version tailored for ArcMap (Python 2) or extra tips for working with rasters, spatial joins, or model builder conversions!
 
+
+## 🖥️ Reproject
+```python
+# Input and output
+in_shp = r"C:\data\my_shapes.shp"
+out_shp = r"C:\data\my_shapes_5070.shp"
+
+# Define the target coordinate system (can be EPSG code or a .prj file)
+target_sr = arcpy.SpatialReference(5070)  # EPSG:5070 = NAD83 / Conus Albers
+
+# Reproject
+arcpy.management.Project(in_dataset=in_shp,
+                         out_dataset=out_shp,
+                         out_coor_system=target_sr)
+```
+
