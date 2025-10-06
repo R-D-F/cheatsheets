@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Py to .EXE.md",
+                "file": "Windows shortcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Py to .EXE"
+              "title": "Windows shortcuts"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "c07350bb641e6940",
   "lastOpenFiles": [
-    "arc_pro.md",
-    "How to Py to .EXE.md",
+    "00_resources.md",
+    "Windows shortcuts.md",
     "Python.md",
+    "How to Py to .EXE.md",
+    "arc_pro.md",
     "git.md",
     "linux.md",
     "JSON in Python – Cheatsheet.md",
-    "00_resources.md",
     "Selenium.md",
     "Teams_Chatbot.md",
     "vimModeStateDiagram.svg",
