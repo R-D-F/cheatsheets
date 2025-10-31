@@ -9,7 +9,7 @@ pip install pyinstaller
 
 2. Build the executable:
 ```powershell
-pyinstaller --onefile --windowed main.py
+pyinstaller --onefile main.py
 ```
 - `--onefile` creates a single .exe file.
 - `--windowed` prevents a console window from appearing (for GUI apps).
