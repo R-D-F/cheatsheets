@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Keyboard Shortcuts Cheatsheet.md",
+                "file": "Submodules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Keyboard Shortcuts Cheatsheet"
+              "title": "Submodules"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "c07350bb641e6940",
   "lastOpenFiles": [
-    "Python.md",
-    "Windows Keyboard Shortcuts Cheatsheet.md",
-    "00_resources.md",
-    "arc_pro.md",
     "How to Py to .EXE.md",
+    "Submodules.md",
+    "Windows shortcuts.md",
+    "00_resources.md",
+    "Python.md",
+    "arc_pro.md",
     "git.md",
     "linux.md",
     "JSON in Python – Cheatsheet.md",
